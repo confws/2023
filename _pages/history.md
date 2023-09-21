@@ -14,7 +14,7 @@ In 2013, the workshop was a stand-alone event for the first time, and has been c
 Here you may find links to all previous editions of the ConfWS series, including their proceedings <i class="fa fa-book"></i>, if available.
 {: .text-justify}
 
-A commemorative poster of the 25th ConfWS is available [here](/assets/confws/poster.pdf).
+A commemorative poster of the 25th ConfWS is available [here](../assets/confws/poster.pdf).
 {: .text-justify}
 ---
 

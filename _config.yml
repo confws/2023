@@ -39,7 +39,7 @@ title_separator: "-"
 name: 25th International Workshop on Configuration (ConfWS'23)
 description: Website of the 25th International Workshop on Configuration (ConfWS'23)
 url: https://confws.github.io/2023
-baseurl:
+baseurl: 
 repository: confws/2023
 teaser: 
 logo: assets/confws/confws-transparent.png 

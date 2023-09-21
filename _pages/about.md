@@ -26,5 +26,5 @@ The main goal of the workshop is to promote high-quality research in all technic
 
 ---
 
-![ConfWS will be at Málaga](/assets/confws/confws-background.jpg "ConfWS will be at Málaga")
+![ConfWS will be at Málaga](../assets/confws/confws-background.jpg "ConfWS will be at Málaga")
 

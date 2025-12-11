@@ -42,7 +42,7 @@ url: https://confws.github.io/2023
 baseurl: 
 repository: confws/2023
 teaser: 
-logo: assets/confws/2023/confws-transparent.png
+logo: assets/confws_2023/confws-transparent.png
 #masthead_title: ConfWS 2023
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: "/assets/confws/2023/confws.jpg"
+og_image: "/assets/confws_2023/confws.jpg"
 social:
   type: 
   name: 

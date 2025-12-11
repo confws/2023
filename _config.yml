@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: "/assets/confws_2023/confws.jpg"
+og_image: "assets/confws_2023/confws.jpg"
 social:
   type: 
   name: 

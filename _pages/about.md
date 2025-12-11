@@ -2,7 +2,7 @@
 title: '25th International Workshop on Configuration (ConfWS 2023)<br><span style="font-size: 60%;">Málaga, Spain. Sep 6-7, 2023</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/confws_2023/confws-background-resized.jpg"
+  overlay_image: "assets/confws_2023/confws-background-resized.jpg"
   overlay_filter: 0.3
   caption: '[Málaga, Spain](https://www.spain.info/en/destination/malaga/)'
 author_profile: true

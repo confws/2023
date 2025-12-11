@@ -8,7 +8,7 @@ classes: wide
 
 The workshop will be hosted at the [**School of Informatics (E.T.S. Ingeniería Informática)**](https://www.uma.es/ETSI-informatica) of the [University of Málaga (UMA)](https://www.uma.es/), located at the Campus de Teatinos.
 
-![E.T.S. Ingeniería Informática](../assets/confws/etsii.jpg)
+![E.T.S. Ingeniería Informática](../assets/confws/2023/etsii.jpg)
 
 **Address:** [Bulevar Louis Pasteur, 35. Campus de Teatinos. 29071 Málaga, Spain](https://goo.gl/maps/bQ4AaYJxLaf2Qkqc7).
 
